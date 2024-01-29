@@ -1,5 +1,6 @@
 # Female-Diabetes-Prediction-using-ML
 
+
 # Overview
 This GitHub repository contains a machine learning project for predicting diabetes in females using the Pima Indians Diabetes Database. The dataset is sourced from Kaggle and consists of various health-related features for female individuals. The goal of this project is to develop a predictive model that can identify the likelihood of diabetes based on these features.
 
