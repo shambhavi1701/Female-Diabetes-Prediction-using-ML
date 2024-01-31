@@ -16,3 +16,6 @@ It includes the following features:
 7. Diabetes Pedigree Function
 8. Age
 9. Outcome (0 or 1, indicating no diabetes or diabetes)
+
+# Colab Notebook
+You can access the Colab notebook by clicking the "Open In Colab" badge above.
