@@ -24,3 +24,9 @@ You can access the Colab notebook by clicking the "Open In Colab" badge above.
 ### 1. Importing the Dependencies
 
 - Numpy, pandas, and scikit-learn are imported to handle data and build the machine learning model.
+
+### 2. Data Collection and Analysis
+
+- The diabetes dataset is loaded into a pandas DataFrame.
+- Basic data analysis is performed, including displaying the first few rows, shape, and statistical measures.
+- The distribution of outcomes (non-diabetic and diabetic) is explored.
