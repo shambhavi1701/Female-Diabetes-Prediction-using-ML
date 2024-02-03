@@ -30,3 +30,7 @@ You can access the Colab notebook by clicking the "Open In Colab" badge above.
 - The diabetes dataset is loaded into a pandas DataFrame.
 - Basic data analysis is performed, including displaying the first few rows, shape, and statistical measures.
 - The distribution of outcomes (non-diabetic and diabetic) is explored.
+
+### 3. Separating Features and Labels
+
+- The dataset is divided into features (x) and labels (y).
