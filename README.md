@@ -34,3 +34,7 @@ You can access the Colab notebook by clicking the "Open In Colab" badge above.
 ### 3. Separating Features and Labels
 
 - The dataset is divided into features (x) and labels (y).
+
+### 4. Data Standardization
+
+- StandardScaler is applied to standardize the feature data.
