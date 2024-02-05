@@ -38,3 +38,7 @@ You can access the Colab notebook by clicking the "Open In Colab" badge above.
 ### 4. Data Standardization
 
 - StandardScaler is applied to standardize the feature data.
+
+### 5. Data Train Test Splitting
+
+- The dataset is split into training and testing sets.
