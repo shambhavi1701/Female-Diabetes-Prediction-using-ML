@@ -42,3 +42,7 @@ You can access the Colab notebook by clicking the "Open In Colab" badge above.
 ### 5. Data Train Test Splitting
 
 - The dataset is split into training and testing sets.
+
+### 6. Training the Model
+
+- A Support Vector Machine (SVM) classifier with a linear kernel is trained using the training data.
