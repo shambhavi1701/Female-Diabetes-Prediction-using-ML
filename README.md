@@ -50,3 +50,7 @@ You can access the Colab notebook by clicking the "Open In Colab" badge above.
 ### 7. Model Evaluation
 
 - Accuracy scores are calculated on both the training and testing data to evaluate the model's performance.
+
+### 8. Predictive System
+
+- An example input is provided to the trained model to demonstrate how to make predictions.
