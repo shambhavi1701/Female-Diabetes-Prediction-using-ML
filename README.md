@@ -46,3 +46,7 @@ You can access the Colab notebook by clicking the "Open In Colab" badge above.
 ### 6. Training the Model
 
 - A Support Vector Machine (SVM) classifier with a linear kernel is trained using the training data.
+
+### 7. Model Evaluation
+
+- Accuracy scores are calculated on both the training and testing data to evaluate the model's performance.
