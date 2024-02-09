@@ -54,3 +54,6 @@ You can access the Colab notebook by clicking the "Open In Colab" badge above.
 ### 8. Predictive System
 
 - An example input is provided to the trained model to demonstrate how to make predictions.
+
+
+## Usage
