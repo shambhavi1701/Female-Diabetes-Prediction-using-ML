@@ -57,3 +57,5 @@ You can access the Colab notebook by clicking the "Open In Colab" badge above.
 
 
 ## Usage
+
+1. Open the Colab Notebook in Google Colab.
