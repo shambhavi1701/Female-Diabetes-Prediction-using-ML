@@ -60,3 +60,5 @@ You can access the Colab notebook by clicking the "Open In Colab" badge above.
 
 1. Open the Colab Notebook in Google Colab.
 2. Execute each cell in the notebook to load the data, preprocess it, train the model, and evaluate its performance.
+3. Explore the steps and customize the notebook for your own experiments.
+
